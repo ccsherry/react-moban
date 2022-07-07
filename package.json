@@ -64,7 +64,7 @@
         "md5": "^2.2.1",
         "mini-css-extract-plugin": "0.4.3",
         "mockjs": "^1.0.1-beta3",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "mysql": "^2.16.0",
         "nprogress": "^0.2.0",
         "optimize-css-assets-webpack-plugin": "5.0.1",
